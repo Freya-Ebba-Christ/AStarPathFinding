@@ -1,3 +1,6 @@
+![image](https://github.com/Freya-Ebba-Christ/AStarPathFinding/assets/57752514/fdf5d115-7541-42e6-a231-8b7ad78a4da0)
+<br>
+
 # AStarPathFinding
 A* path finding
 
